@@ -2,7 +2,7 @@
 this my first repo winnowing what is get 
 
 ## remote repositries
-###seeing your remote :
+### seeing your remote :
  - git remote : view short name 
  - git remote -v :view all the remote URLs
 
