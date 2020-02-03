@@ -3,7 +3,7 @@ this my first repo winnowing what is get
 
 ## remote repositries
 ### seeing your remote :
- - git remote : view short name 
+ - git remote  : view short name 
  - git remote -v :view all the remote URLs
 
 - the snapshot its anew version and its acommit also and each commit has alabel that points to it 
